@@ -3,8 +3,10 @@ Given a training file, outputs the word count, frequency, average_position and t
 
 Usage: string_manipulation.rb FILENAME
 where FILENAME is the input training text file to learn from.
-
+----------------------------------------------------------------------------------------------------------------------
 OUTPUT:
+
+
 1. Each individual sentence along with a word count for the sentence (for this purpose, a sentence can be defined as anything ending with a period).
 
 2. For each case­insensitive letter, the number of times that letter appears in the entire text. E.g. the text contains 50 As, 40 Bs, etc.
