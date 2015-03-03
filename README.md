@@ -3,7 +3,7 @@ Given a training file, outputs the word count, frequency, average_position and t
 
 Usage: string_manipulation.rb FILENAME
 where FILENAME is the input training text file to learn from.
-----------------------------------------------------------------------------------------------------------------------
+
 OUTPUT:
 
 
